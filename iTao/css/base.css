@@ -1,0 +1,22 @@
+body
+{ 
+    background-color: #fff;
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Microsoft Yahei','Hiragino Sans GB',Hevetica,'Hevetica Neue',微软雅黑;
+    font-size: 12px; 
+}
+
+h2,h3{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #14191e;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #f01400;
+}

@@ -1,0 +1,18 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont/iconfont.eot?t=1607421480632'); /* IE9 */
+  src: url('./iconfont/iconfont.eot?t=1607421480632#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPMAAsAAAAACCAAAAOAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDPIMAATYCJAMUCwwABCAFhG0HTBsQBxEVnJXIfhzkpqmr4p0DR1kVTbYy/z14nvL+PTN38ppCdl6hTy3FXUXkl9oFI247jyC0bHM59tZRyGdI7PTT/0j/d3ppyhBGICRC8j+X45YlML+d5XKjMWmNSUW9AKMJlIVjTQoswAJJ1HMg3rrMw1BAAarQCNWrz6BR2BiMUQpQi+bPnY6dUmBq0hU2Cl/JQoMKxcLWe/VVIMT/vvpEC2WDxhKMo4bN6T2Lbm4tN1wczzFJtuOMpwO4ZSBAI8CAWlFqWISEgUYIBZTuhm5AAWw0eqxOLdwBbrjnEQt3JC9g/uGBYNAoUD6M1EIAdKOCBtxaNgIBtwVRJhsABBrccP69HGQBUADID2wEMjDotZDKaWdJsUKlSqqShfC6jcX2HS1n4o4VLB5woqIVf3xUQHKcE5tUYF+GP3N8kZScimNjAkqPjgoo628alzW1aMCx8rH1ZqWdbRBdZk5GYsPU2mpj6ian/uyogAR/mTnR/rJzY+JTZt6/P+bBg7H37o2+ezfAZBSiUfBNj05ITR5rWWxSSpmOp/+tqzym0JxCYyr7b7Y/o8jiBxUfLCpS5mqjK70PJjn13hx6faxWdvKlo7WOTlx6rOaxZXvu1CP6wI2q6woXKjHjUd21/p195z63167oMgwazVx75My8buuOHVxb5nvptczkeUdPZ2xxeVQwS/LyJFuyGHEWsBgDiujsrqFy8qQ4ohAWA06jEIWiMLB9fMOhJ9d3G+JpWHchE/R/QHL0IfCc1JDZDt6JWS3dfudv6HT23aipRTv9sQsaAJ547y77ds/ZtCf+iQyF9/N4LcuMKjCUlpGLbULuZ9EMAUBzNQWAX2YpwfNxTKUh1ilsngfQ5KMyCDa1SIbWCCwK0gp82HSFAjSk7/KClGQFgjL5gQbsJKAoRi5oinACBNvIl1Sj/aBu4Q8No6rQ8Wi6YdeyuLNndAUD8D4Q+1QoSy2dIP2Coc1cTgp8xgPZxG7YNGmWDZ+xQB5jinmGWxEFiimHEzkOs4xAMyXoixOJ6N2q6ZyyFzk+5aWOPYZcAgWA5wPEfKSg3Oqik/v8BQpZGRfXlFS4HxAz4vbBhmPdgnSWFq1KruUZ4ym0JYQCFEZy4ER0KDMDBOjyfgnkE46oh0/bWVGVVFupM788f8Yt8BjbnVbT7nQ1vtWxWzQTxytkG8rrGdm4YcgaS6US') format('woff2'),
+  url('./iconfont/iconfont.woff?t=1607421480632') format('woff'),
+  url('./iconfont/iconfont.ttf?t=1607421480632') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont/iconfont.svg?t=1607421480632#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
